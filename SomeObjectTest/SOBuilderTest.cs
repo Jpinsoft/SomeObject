@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyInstanceTest
+namespace SomeObjectTest
 {
     [TestClass]
     public class SOBuilderTest
