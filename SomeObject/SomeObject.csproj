@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Jpinsoft.SomeObject</RootNamespace>
+    <Authors>Jozef Batora</Authors>
+    <Company>Jpinsoft</Company>
+    <Description>SomeObject is a simple reflection-based tool designed for generating and populating objects.
+SomeObject is released under the GPL.</Description>
+    <Copyright>Copyright ©  2017 Jozef Batora (jpinsoft.net)</Copyright>
+  </PropertyGroup>
+
+</Project>
